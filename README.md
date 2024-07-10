@@ -56,7 +56,7 @@
 
 11. Start celery
 
-    celery -A ecommerce.celery worker --poop=solo -l info
+    celery -A ecommerce.celery worker --pool=solo -l info
 
 12. Start celery beat
 
