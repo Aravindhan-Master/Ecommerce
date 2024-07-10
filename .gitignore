@@ -1,0 +1,9 @@
+migrations/
+__pycache__
+/media
+venv
+.env
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+google_auth_conf.json
